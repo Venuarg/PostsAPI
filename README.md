@@ -1,4 +1,4 @@
-# newvuew
+# PostsAPI
 
 ## Project setup
 ```
